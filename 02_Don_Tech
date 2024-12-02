@@ -1,0 +1,10 @@
+X = "EMMANUAL"
+
+D= X[0:8:2]
+print(f"{D}")
+
+
+r = "hello world"
+
+m =r[1:9:2]
+print(f"{m}")
