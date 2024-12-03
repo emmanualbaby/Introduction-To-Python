@@ -1,0 +1,44 @@
+
+# Comparison Operators 
+
+# 	Equal == 
+
+# 	Not equal !=
+
+#  Greater than >
+
+#  Less than  <
+
+# Greater than or equal to >=
+
+# 	Less than or equal to <=
+
+x = 10
+y = 10
+
+# 	Equal == 
+print("Equal ",x==y)
+
+# 	Not equal !=
+print("Not equal",x!=y)
+
+#  Greater than >
+print("Greater than ",x>y)
+
+#  Less than  <
+print("Less than ",x<y)
+
+# Greater than or equal to >=
+print("Greater than or equal to ",x>=y)
+
+# 	Less than or equal to <=
+print("Less than or equal to",x<=y)
+
+
+
+# whrite a python program check if number is +ve , -ve . 0 and return 1 for +ve 1 for  -ve number 0 for 0
+
+
+n = int(input("enter the number"))
+x = (n > 0) - (n < 0)
+print(x)
