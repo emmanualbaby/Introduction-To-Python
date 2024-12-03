@@ -1,0 +1,48 @@
+# Logical Operators
+
+# and
+
+# or
+
+# not
+
+
+
+# and
+
+x = int(input("enter the number :"))
+y = int(input("enter the number :"))
+z = (x>y) and (x<y)
+print(z)
+
+
+# or
+
+x = int(input("enter the number :"))
+y = int(input("enter the number :"))
+z = (x>y) or (x<y)
+print(z)
+
+
+# not
+x = int(input("enter the number :"))
+y = int(input("enter the number :"))
+z = not(x>y) and (x<y)
+print(z)
+
+
+
+# whrite a python program that where condions t or f 
+# The number is <10 and >20 
+
+q = int(input("enter the number : "))
+x = (q<10) and (q>20)
+print(f"{x}")
+
+# The number y is not <50 or is = to 30
+q = int(input("enter the number : "))
+print(not q>50 or q==30)
+
+
+
+
