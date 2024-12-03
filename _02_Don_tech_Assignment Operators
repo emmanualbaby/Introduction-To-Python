@@ -1,0 +1,52 @@
+# 	Addition +
+x = int(input("enter the number : "))
+y = int(input("enter the number : "))
+z = x+y
+print(f"sum of the number :{z}")
+
+
+# 	Subtraction -
+# x = int(input("enter the number : "))
+# y = int(input("enter the number : "))
+n = x-y
+print(f"subtraction of numbers :{n}")
+
+# 	Multiplication *
+# x = int(input("enter the number : "))
+# y = int(input("enter the number : "))
+m = x*y
+print(f"multiplication of numbers : {m}")
+
+#   division /
+# x = int(input("enter the number : "))
+# y = int(input("enter the number : "))
+w = x/y
+print(f"division of numbers :{w}")
+
+
+# 	Modulus %
+# x = int(input("enter the number : "))
+# y = int(input("enter the number : "))
+q = x/y
+print(f"modulus of numbers :{q}")
+
+
+# 	Exponentiation **
+# x = int(input("enter the number : "))
+# y = int(input("enter the number : "))
+f = x**y
+print(f"Exponentiation of numbers :{f}")
+
+# Floor division //
+# x = int(input("enter the number : "))
+# y = int(input("enter the number : "))
+t = x//y
+print(f"Floor division of numbers :{t}")
+
+
+
+
+
+
+
+
