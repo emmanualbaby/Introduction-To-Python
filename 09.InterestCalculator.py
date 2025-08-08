@@ -43,4 +43,4 @@ if __name__ == "__main__" :
 	bt1.grid(row = 4, column = 1, pady = 10)
 	bt2.grid(row = 6, column = 1, pady = 10)
 	root.mainloop()
-	
+	 
