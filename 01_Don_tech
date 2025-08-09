@@ -27,4 +27,4 @@ w=d.upper()
 r = y[-3:]
 print(f"{w}-{r}-{z}")
 
-print(f"{w}-{r}-{z}
+print(f"{w}-{r}-{z} 
