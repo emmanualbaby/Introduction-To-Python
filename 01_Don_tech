@@ -1,5 +1,5 @@
 x = input("enter the name :")
-y = (input("enter the roll number :"))
+y = (input("enter the roll number :")) 
 z = float(input("enter the score :"))
 
 # print(f"name-{x},roll-{y},score-{z}")
