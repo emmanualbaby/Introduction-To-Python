@@ -24,7 +24,7 @@ z = float(input("enter the score :"))
 
 d = x[0:3]
 w=d.upper()
-r = y[-3:] 
+r = y[-3:]
 print(f"{w}-{r}-{z}")
 
 print(f"{w}-{r}-{z}
